@@ -1,4 +1,6 @@
 iPulse
 ======
 
-My minimal iPulse skin
+My iPulse settings
+
+Get iPulse here: https://iconfactory.com/software/ipulse
